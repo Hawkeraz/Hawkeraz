@@ -2,8 +2,8 @@
 <span>Também conhecido como Hawkey, sou um desenvolvedor de softwares especializado mais para front end, amante de jogos (principalmente os que envolvem lógica) passa o tempo sempre aprendendo coisas novas enquanto se diverte nas streams</span>
 <div align="center">
   <a href="https://github.com/hawkeraz">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Hawkeraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hawkeraz&layout=compact&langs_count=5&theme=dracula"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Hawkeraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hawkeraz&layout=compact&langs_count=5&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Hawkey-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
