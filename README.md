@@ -1,13 +1,13 @@
 <h3>Hey There! 👋</h3>
-
+<div>
 <span>I'm Wesley, also better known as Hawkey, a frontend developper based in Brazil.</span>
-</br>
+</div>
 <span>I mostly enjoy working in frontend stuff but also has an eager for knowledge trying my best to understand all the proccess behind.</span>
-</br>
+
 <span>I usually use React, Javascript, and always trying to learn some CSS related stuff</span>
-</br>
+
 <span>I understand design principles, since I have a degree in the field making it easier to understand Photoshop and Figma for UI design.</span>
-</br>
+
 <span>This is a playground profile where I want to create some projects that satisfies me and makes me improve as a developper and minor projects to understand some principles that I want to use later on</span>
 
 
