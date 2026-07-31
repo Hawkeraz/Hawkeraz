@@ -1,6 +1,6 @@
 ### Hey There! 👋
 
-I'm Wesley, also better known as Hawkey, a frontend developper based in Brazil.
+I'm Wesley, also better known as Hawkey, a frontend developer based in Brazil.
 
 I mostly enjoy working in frontend stuff but also has an eager for knowledge trying my best to understand all the proccess behind.
 
