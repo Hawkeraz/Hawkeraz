@@ -14,7 +14,7 @@ This is a playground profile where I want to create some projects that satisfies
 
 ### Tools & Tech
 - Figma, Photoshop
-- React, Javascript, Tailwind
+- React, Javascript
 <div style="display: inline_block"><br>
   <img align="center" alt="Hawkey-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Hawkey-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
