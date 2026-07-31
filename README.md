@@ -2,7 +2,7 @@
 
 <span>I'm Wesley, also better known as Hawkey, a frontend developper based in Brazil.</span>
 </div>
-<div><span>I mostly enjoy working in frontend stuff but also has an eager for knowledge trying my best to understand all the proccess behind.</span></div>
+<div><span>I mostly enjoy working in frontend stuff but also has an eager for knowledge trying my best to understand all the proccess behind.</span>
 </div>
 <span>I usually use React, Javascript, and always trying to learn some CSS related stuff</span>
 </div>
