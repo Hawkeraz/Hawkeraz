@@ -1,10 +1,16 @@
-## Wesley Reis Piauhy
-<span>Também conhecido como Hawkey, sou um desenvolvedor de softwares especializado mais para front end, amante de jogos (principalmente os que envolvem lógica) passa o tempo sempre aprendendo coisas novas enquanto se diverte nas streams</span>
-<div align="center">
-  <a href="https://github.com/hawkeraz">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Hawkeraz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hawkeraz&layout=compact&langs_count=5&theme=dracula"/>
-</div>
+<h3>Hey There! 👋</h3>
+
+<span>I'm Wesley, also better known as Hawkey, a frontend developper based in Brazil.</span>
+</br>
+<span>I mostly enjoy working in frontend stuff but also has an eager for knowledge trying my best to understand all the proccess behind.</span>
+</br>
+<span>I usually use React, Javascript, and always trying to learn some CSS related stuff</span>
+</br>
+<span>I understand design principles, since I have a degree in the field making it easier to understand Photoshop and Figma for UI design.</span>
+</br>
+<span>This is a playground profile where I want to create some projects that satisfies me and makes me improve as a developper and minor projects to understand some principles that I want to use later on</span>
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Hawkey-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Hawkey-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
